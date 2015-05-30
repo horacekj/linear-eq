@@ -1,4 +1,4 @@
-Various algoritms to solve systems of linear equations.
+Various algorithms to solve systems of linear equations.
 
     1) Gaussova elimination method.
     2) Gauss-Seidl method.
